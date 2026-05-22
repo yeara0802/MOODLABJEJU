@@ -1,6 +1,6 @@
 {
   "name": "MOOD LAB JEJU 예약",
-  "short_name": "MOOD LAB",
+  "short_name": "무드랩제주",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
